@@ -29,31 +29,68 @@
 
 ---
 
-## Features
+##💼 Core Budgeting Features
+Create & Manage Budgets
+Set monthly or custom-period budgets for categories like food, transport, savings, etc.
 
-- **Expense Tracking**  
-  Effortlessly track your spending across different categories. Gain insight into where your money goes with real-time reports.
+Expense Tracking
+Log and categorize expenses with notes, timestamps, and amounts.
 
-- **Budget Creation**  
-  Set daily, weekly, or monthly budgets for different categories like groceries, entertainment, and more. Budgie will help you stay within your limits.
+Income Tracking
+Record multiple income streams and compare against expenses.
 
-- **Customizable Categories**  
-  Organize your spending with fully customizable categories. Add, remove, or rename categories to suit your lifestyle.
+Category Management
+Add, edit, and delete custom spending categories.
 
-- **Goal Setting**  
-  Set savings goals, and Budgie will help you monitor your progress with visual trackers and notifications.
+📊 Data Visualization
+Pie Charts & Bar Graphs
+Visualize spending by category or time.
 
-- **Spending Insights**  
-  Get detailed insights into your spending habits through charts and graphs. Understand where your money is going, and make better financial decisions.
+Progress Bars
+Track real-time usage of budgets.
 
-- **Real-time Notifications**  
-  Receive instant alerts when you're approaching your budget limit or have reached a savings milestone.
+Spending Trends
+Weekly/monthly analytics to show patterns.
 
-- **Multi-Currency Support**  
-  Budgie supports various currencies, making it perfect for international users or travelers.
+🔄 Smart Features
+Budget Suggestions
+AI-assisted tips based on past spending patterns.
 
-- **Backup and Sync**  
-  Sync your data securely across devices and never lose track of your budget.
+Reminders & Notifications
+For unlogged days, overspending alerts, budget resets.
+
+🎮 Gamification & Motivation
+Achievement Badges
+Unlock for reaching milestones (e.g., “Saved for 3 Months”).
+
+Daily/Weekly Streaks
+Motivation for consistent logging (with visual indicators like fire/flame or calendar icons).
+
+Reward Animations
+Confetti/fireworks when completing goals (like Duolingo).
+
+Goal Setting
+Set savings or habit-based goals (e.g., “Track every day for a week”).
+
+🛡️ Security & Sync
+Firebase Authentication
+Google/email sign-in with cloud data sync.
+
+Offline Mode
+Local caching for data entry when offline.
+
+Data Backup
+Cloud Firestore sync for budget and expense data.
+
+⚙️ Settings & Customization
+Theme Switching
+Light/Dark mode or custom color themes.
+
+Currency Settings
+Choose local or preferred currency.
+
+Profile Management
+View achievements, stats, and reset data.
 
 ---
 
