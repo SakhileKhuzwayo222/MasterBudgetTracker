@@ -28,8 +28,10 @@
 
 ---
 
-## 💼 Core Budgeting Features
+## 💼 Core Budgeting Features 
 
+---
+🧩 Budget and income tracking
 ### Create and manage Budgets: 
 Set monthly or custom-period budgets for categories like food, transport, savings, etc.
 ### Expense Tracking: 
@@ -47,11 +49,11 @@ Visualize spending by category or time.
 ### Spending Trends: 
 Weekly/monthly analytics to show patterns.
 
-🔄 Smart Features
+## 🔄 Smart Features
 ### Reminders & Notifications: 
 For unlogged days, overspending alerts, and budget resets.
 
-🎮 Gamification & Motivation
+## 🎮 Gamification & Motivation
 ### Achievement Badges: 
 Unlock for reaching milestones (e.g., “Saved for 3 Months”).
 ### Daily/Weekly Streaks: 
@@ -61,7 +63,7 @@ Confetti/fireworks when completing goals (like Duolingo).
 ### Goal Setting: 
 Set savings or habit-based goals (e.g., “Track every day for a week”).
 
-🛡️ Security & Sync
+## 🛡️ Security & Sync
 ### Firebase Authentication: 
 Google/email sign-in with cloud data sync.
 ### Offline Mode: 
