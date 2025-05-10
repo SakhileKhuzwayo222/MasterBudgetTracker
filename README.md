@@ -1,103 +1,88 @@
-🐦 Budgie - Budget Companion
-Budgie is your personal financial assistant — designed to make budgeting simple, engaging, and stress-free. Whether you're managing daily expenses, keeping track of bills, or planning long-term savings, Budgie guides you with powerful, intuitive tools.
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=6AFFCE&center=true&vCenter=true&width=800&height=60&lines=Master+Budget+Companion;Your+Personal+Financial+Ally" alt="Typing SVG" />
+    </a>
+  </h1>
 
-With a sleek design and real-time insights, Budgie helps you take control of your finances — effortlessly.
+  <p>
+    <a href="https://www.linkedin.com/in/sakhilekhuzwayo222" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Sakhile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:sakhilekhuzwayo222@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/SakhileKhuzwayo222" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+</div>
 
-🎬 Demo Video
-Watch the Demo Video for Part 2 of the POE
-(Link to be added)
+---
 
-🚀 Releases
-v1.0.0 – POE Part 2 Initial Release
+![Repo Views](https://komarev.com/ghpvc/?username=SakhileKhuzwayo222&label=Repo+Views&color=blue)
 
-✨ Features
-📊 Expense Tracking
-Track your spending across different categories with ease. Budgie offers real-time reports that show exactly where your money goes.
+## 🧾 What is Master Budget Companion?
 
-💰 Budget Creation
-Set daily, weekly, or monthly budgets for different categories such as groceries, entertainment, transport, and more. Budgie helps you stay within your spending limits.
+**Master Budget Companion** is a desktop expense tracking application that helps users plan, record, and reflect on their monthly budgets. Inspired by real-world financial systems and user behavior, it serves as a minimalist, intuitive tool for:
 
-🗂 Customizable Categories
-Fully personalize your budgeting experience by adding, renaming, or removing categories based on your lifestyle and needs.
+- Monthly budget planning
+- Daily expense recording
+- Progress tracking
+- Financial reflection and insights
 
-🎯 Goal Setting
-Set and track financial goals — like saving for a trip, a device, or an emergency fund — with progress visuals and friendly reminders.
+---
 
-📈 Spending Insights
-Gain a deeper understanding of your habits with graphs and analytics that highlight trends and encourage smarter financial choices.
+## 🎯 Features
 
-🔔 Real-time Notifications
-Receive alerts when you're nearing budget limits or when you've reached savings milestones.
+- ✅ Budget allocation per category
+- ✅ Daily logging of expenses with timestamps
+- ✅ Visual progress bars for budget tracking
+- ✅ Monthly summary + performance feedback
+- ✅ Optional reminders and motivational quotes
 
-🌍 Multi-Currency Support
-Ideal for travelers and international users — Budgie supports multiple currencies with seamless switching.
+---
 
-☁️ Backup and Sync
-Securely sync your data across devices so your budget is always with you — and never lost.
+## 🧠 Inspiration
 
-🖼 Screenshots
-(Coming Soon)
+The app is designed with clarity, honesty, and **financial awareness** in mind. It doesn’t just track numbers—it helps the user *understand* their financial behavior, acknowledge overspending habits, and improve decision-making.
 
-🛠 Installation
-Clone the repository:
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/YourUsername/Budgie-Budget-Companion.git
-Open the project in Android Studio.
+## 🛠️ Built With
 
-Build the project:
+### 💻 Backend & Core
 
-Gradle will auto-download all required dependencies.
+<div align="center"> 
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Framework" />
+</div>
 
-Make sure you have a working Android emulator or a connected device.
+### 🖥️ Frontend / UI
 
-Run the app:
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=javafx" alt="JavaFX" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</div>
 
-In Android Studio, select your device and click Run (▶).
+---
 
-💻 Tech Stack
-Kotlin – Modern, expressive Android programming language
+## 📸 Screenshots (Coming Soon)
 
-Jetpack Compose – Declarative UI framework for building beautiful UIs with less boilerplate
+- Budget Dashboard
+- Daily Expense Entry
+- Monthly Recap Screen
 
-Room Database – Local persistence layer for efficient, offline-capable storage
+---
 
-LiveData & ViewModel – Lifecycle-aware architecture components for reactive UI
+## ⚙️ Installation
 
-Hilt – Dependency injection to reduce boilerplate and manage dependencies cleanly
+```bash
+git clone https://github.com/SakhileKhuzwayo222/master-budget-companion.git
+cd master-budget-companion
+# Open in your Java IDE or run with your favorite build tool
 
-Retrofit (optional) – For future backend/API sync functionality
-
-📘 Usage
-1. Create a Budget
-Go to the “Budgets” section → Set amount → Choose category → Save.
-
-2. Track Your Spending
-Log expenses with amount, category, and date. Keep tabs on where your money goes.
-
-3. Monitor Progress
-View your dashboard to see budget stats, warnings, and trends.
-
-4. Set Financial Goals
-Navigate to “Goals” → Define a savings target → Watch your progress build over time.
-
-🤝 Contributing
-Contributions are welcome!
-
-Fork the repository
-
-Create a new branch: git checkout -b feature/my-feature
-
-Commit changes: git commit -m 'Add my feature'
-
-Push to your branch: git push origin feature/my-feature
-
-Submit a Pull Request
-
-📄 License
-This project is licensed under the MIT License.
 
 📬 Contact
 For questions, feedback, or collaboration inquiries:
