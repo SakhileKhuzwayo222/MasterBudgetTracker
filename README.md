@@ -77,11 +77,15 @@ The app is designed with clarity, honesty, and **financial awareness** in mind. 
 
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
-  <img src="https://developer.android.com/images/jetpack/compose-hero.svg" width="65" alt="Jetpack Compose" />
+ 
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </div>
 
-
+### 🖥️ Version Control
+<div align="center"> 
+ <img src="https://skillicons.dev/icons?i=githubactions" alt="Github Actions" />
+ </div>
+ 
 ## 📸 Screenshots (Coming Soon)
 
 - Budget Dashboard
