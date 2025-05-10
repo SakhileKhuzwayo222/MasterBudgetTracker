@@ -8,9 +8,8 @@
 
 ![Repo Views](https://komarev.com/ghpvc/?username=SakhileKhuzwayo222&label=Repo+Views&color=blue)
 
-## 🧾 What is Master Budget Companion?
 
-**Master Budget Companion** is a desktop expense tracking application that helps users plan, record, and reflect on their monthly budgets. Inspired by real-world financial systems and user behavior, it serves as a minimalist, intuitive tool for:
+**The Master Budget App** is a desktop expense tracking application that helps users plan, record, and reflect on their monthly budgets. Inspired by real-world financial systems and user behavior, it serves as a minimalist, intuitive tool for:
 
 - Monthly budget planning
 - Daily expense recording
