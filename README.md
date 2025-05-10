@@ -21,11 +21,41 @@
 
 ## 🎯 Features
 
-- ✅ Budget allocation per category
-- ✅ Daily logging of expenses with timestamps
-- ✅ Visual progress bars for budget tracking
-- ✅ Monthly summary + performance feedback
-- ✅ Optional reminders and motivational quotes
+## 📽 Demo Video
+[Watch the video for Part 2 of the POE](https://youtu.be/d2s0mmedYs0)
+
+## 🤖 Releases
+[v1.0.0 - POE Part 2](https://github.com/Ryan-Millard/Budgie-Budget-Tracker/releases/tag/v1.0.0-POE_Part_2)
+
+---
+
+## Features
+
+- **Expense Tracking**  
+  Effortlessly track your spending across different categories. Gain insight into where your money goes with real-time reports.
+
+- **Budget Creation**  
+  Set daily, weekly, or monthly budgets for different categories like groceries, entertainment, and more. Budgie will help you stay within your limits.
+
+- **Customizable Categories**  
+  Organize your spending with fully customizable categories. Add, remove, or rename categories to suit your lifestyle.
+
+- **Goal Setting**  
+  Set savings goals, and Budgie will help you monitor your progress with visual trackers and notifications.
+
+- **Spending Insights**  
+  Get detailed insights into your spending habits through charts and graphs. Understand where your money is going, and make better financial decisions.
+
+- **Real-time Notifications**  
+  Receive instant alerts when you're approaching your budget limit or have reached a savings milestone.
+
+- **Multi-Currency Support**  
+  Budgie supports various currencies, making it perfect for international users or travelers.
+
+- **Backup and Sync**  
+  Sync your data securely across devices and never lose track of your budget.
+
+---
 
 ---
 
