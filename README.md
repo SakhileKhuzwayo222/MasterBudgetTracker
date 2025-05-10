@@ -69,7 +69,7 @@ The app is designed with clarity, honesty, and **financial awareness** in mind. 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Ryan-Millard/Budgie-Budget-Tracker.git
+     git clone https://github.com/SakhileKhuzwayo222/MasterBudgetTracker.git
     ```
 
 2. Open the project in Android Studio.
