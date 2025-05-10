@@ -32,26 +32,23 @@
 
 ### Create and manage Budgets: 
 Set monthly or custom-period budgets for categories like food, transport, savings, etc.
-
 ### Expense Tracking: 
 Log and categorize expenses with notes, timestamps, and amounts.
-
 ### Income Tracking: 
 Record multiple income streams and compare against expenses.
-
 ### Category Management: 
 Add, edit, and delete custom spending categories.
 
 📊 Data Visualization
 ### Pie Charts & Bar Graphs: 
-### Visualize spending by category or time.
+Visualize spending by category or time.
 ### Progress Bars: 
-### Track real-time usage of budgets.
+ Track real-time usage of budgets.
 ### Spending Trends: 
-### Weekly/monthly analytics to show patterns.
+Weekly/monthly analytics to show patterns.
 
 🔄 Smart Features
-### - Reminders & Notifications: 
+### Reminders & Notifications: 
 For unlogged days, overspending alerts, and budget resets.
 
 🎮 Gamification & Motivation
