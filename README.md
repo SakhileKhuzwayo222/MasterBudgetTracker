@@ -12,22 +12,6 @@
 **The Master Budget App** is a gamified personal finance app designed to help users track expenses, manage budgets, and build healthy financial habits—all with a fun, engaging experience,
 it hat helps users plan, record, and reflect on their monthly budgets. Inspired by real-world financial systems and user behavior, it serves as a minimalist, intuitive tool for:
 
-- Monthly budget planning
-- Daily expense recording
-- Progress tracking
-- Financial reflection and insights
-
----
-MasterBudget is a gamified personal finance app designed to help users track expenses, manage budgets, and build healthy financial habits—all with a fun, engaging experience inspired by apps like Duolingo and Habitica.
-
-## 📽 Demo Video
-[Watch the video for Part 2 of the POE](https://youtu.be/d2s0mmedYs0)
-
-## 🤖 Releases
-[v1.0.0 - POE Part 2](https://github.com/Ryan-Millard/Budgie-Budget-Tracker/releases/tag/v1.0.0-POE_Part_2)
-
----
-
 ## 💼 Core Budgeting Features 
 
 ---
@@ -84,6 +68,19 @@ View achievements, stats, and reset data.
 ## 🧠 Inspiration
 
 The app is designed with clarity, honesty, and **financial awareness** in mind. It doesn’t just track numbers—it helps the user *understand* their financial behavior, acknowledge overspending habits, and improve decision-making.
+
+
+---
+MasterBudget is a gamified personal finance app designed to help users track expenses, manage budgets, and build healthy financial habits—all with a fun, engaging experience inspired by apps like Duolingo and Habitica.
+
+## 📽 Demo Video
+[Watch the video for Part 2 of the POE](https://youtu.be/d2s0mmedYs0)
+
+## 🤖 Releases
+[v1.0.0 - POE Part 2](https://github.com/Ryan-Millard/Budgie-Budget-Tracker/releases/tag/v1.0.0-POE_Part_2)
+
+---
+
 
 ---
 
