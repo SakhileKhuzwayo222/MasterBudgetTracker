@@ -4,18 +4,6 @@
       <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=6AFFCE&center=true&vCenter=true&width=800&height=60&lines=Master+Budget+Companion;Your+Personal+Financial+Ally" alt="Typing SVG" />
     </a>
   </h1>
-
-  <p>
-    <a href="https://www.linkedin.com/in/sakhilekhuzwayo222" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Sakhile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:sakhilekhuzwayo222@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/SakhileKhuzwayo222" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
 </div>
 
 ---
