@@ -15,51 +15,51 @@ it hat helps users plan, record, and reflect on their monthly budgets. Inspired 
 ---
 ## 🧩 Budget and income tracking
 ### Create and manage Budgets: 
-Set monthly or custom-period budgets for categories like food, transport, savings, etc.
+-Set monthly or custom-period budgets for categories like food, transport, savings, etc.
 ### Expense Tracking: 
-Log and categorize expenses with notes, timestamps, and amounts.
+-Log and categorize expenses with notes, timestamps, and amounts.
 ### Income Tracking: 
-Record multiple income streams and compare against expenses.
+-Record multiple income streams and compare against expenses.
 ### Category Management: 
-Add, edit, and delete custom spending categories.
+-Add, edit, and delete custom spending categories.
 
 ## 📊 Data Visualization
 ### Pie Charts & Bar Graphs: 
-Visualize spending by category or time.
+-Visualize spending by category or time.
 ### Progress Bars: 
- Track real-time usage of budgets.
+-Track real-time usage of budgets.
 ### Spending Trends: 
-Weekly/monthly analytics to show patterns.
+-Weekly/monthly analytics to show patterns.
 
 ## 🔄 Smart Features
 ### Reminders & Notifications: 
-For unlogged days, overspending alerts, and budget resets.
+- For unlogged days, overspending alerts, and budget resets.
 
 ## 🎮 Gamification & Motivation
 ### Achievement Badges: 
-Unlock for reaching milestones (e.g., “Saved for 3 Months”).
+- Unlock for reaching milestones (e.g., “Saved for 3 Months”).
 ### Daily/Weekly Streaks: 
-Motivation for consistent logging (with visual indicators like fire/flame or calendar icons).
+- Motivation for consistent logging (with visual indicators like fire/flame or calendar icons).
 ### Reward Animations: 
-Confetti/fireworks when completing goals (like Duolingo).
+- Confetti/fireworks when completing goals (like Duolingo).
 ### Goal Setting: 
-Set savings or habit-based goals (e.g., “Track every day for a week”).
+- Set savings or habit-based goals (e.g., “Track every day for a week”).
 
 ## 🛡️ Security & Sync
 ### Firebase Authentication: 
-Google/email sign-in with cloud data sync.
+- Google/email sign-in with cloud data sync.
 ### Offline Mode: 
-Local caching for data entry when offline.
+- Local caching for data entry when offline.
 ### Data Backup: 
-Cloud Firestore sync for budget and expense data.
+- Cloud Firestore sync for budget and expense data.
 
 ## ⚙️ Settings & Customization
 ### Theme Switching: 
-Light/Dark mode or custom color themes
+- Light/Dark mode or custom color themes
 ### Currency Settings: 
-Choose local or preferred currency.
+- Choose local or preferred currency.
 ### Profile Management: 
-View achievements, stats, and reset data.
+- View achievements, stats, and reset data.
 
 ---
 
