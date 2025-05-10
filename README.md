@@ -57,8 +57,6 @@
 
 ---
 
----
-
 ## 🧠 Inspiration
 
 The app is designed with clarity, honesty, and **financial awareness** in mind. It doesn’t just track numbers—it helps the user *understand* their financial behavior, acknowledge overspending habits, and improve decision-making.
