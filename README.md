@@ -12,8 +12,6 @@
 **The Master Budget App** is a gamified personal finance app designed to help users track expenses, manage budgets, and build healthy financial habits—all with a fun, engaging experience,
 it hat helps users plan, record, and reflect on their monthly budgets. Inspired by real-world financial systems and user behavior, it serves as a minimalist, intuitive tool for:
 
-## 💼 Core Budgeting Features 
-
 ---
 ## 🧩 Budget and income tracking
 ### Create and manage Budgets: 
