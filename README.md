@@ -89,6 +89,8 @@ The app is designed with clarity, honesty, and **financial awareness** in mind. 
 📬 Contact
 For questions, feedback, or collaboration inquiries:
 
-Contributor	GitHub Profile	Student Email
-Your Name	@YourGitHub	you@example.com
-Teammate Name	@TeammateGitHub	teammate@email.com
+| Contributor | GitHub Profile | Student Email |
+|------------|------------|------------|
+| Sakhumuzi Khuzwayo| [![Ryan Millard](https://img.shields.io/badge/GitHub-Profile-informational?logo=github&style=for-the-badge)](https://github.com/Ryan-Millard) | <a href="mailto:st10383326@imconnect.edu.za"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> |
+| Sikho Dlangamandla | [![Alec van Aswegen](https://img.shields.io/badge/GitHub-Profile-informational?logo=github&style=for-the-badge)](https://github.com/AlecvanAswegen) | <a href="mailto:st10108565@imconnect.edu.za"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> |
+| Njabulo Kubheka| [![Alec van Aswegen](https://img.shields.io/badge/GitHub-Profile-informational?logo=github&style=for-the-badge)](https://github.com/AlecvanAswegen) | <a href="mailto:st10108565@imconnect.edu.za"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> |
