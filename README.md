@@ -30,64 +30,54 @@
 
 ## 💼 Core Budgeting Features
 
-### - Create and manage Budgets: 
+### Create and manage Budgets: 
 Set monthly or custom-period budgets for categories like food, transport, savings, etc.
 
-### - Expense Tracking: 
+### Expense Tracking: 
 Log and categorize expenses with notes, timestamps, and amounts.
 
-### - Income Tracking: 
+### Income Tracking: 
 Record multiple income streams and compare against expenses.
 
-### - Category Management: 
+### Category Management: 
 Add, edit, and delete custom spending categories.
 
 📊 Data Visualization
-### - Pie Charts & Bar Graphs: 
-Visualize spending by category or time.
-
-### - Progress Bars: 
-Track real-time usage of budgets.
-
-### - Spending Trends: 
-Weekly/monthly analytics to show patterns.
+### Pie Charts & Bar Graphs: 
+### Visualize spending by category or time.
+### Progress Bars: 
+### Track real-time usage of budgets.
+### Spending Trends: 
+### Weekly/monthly analytics to show patterns.
 
 🔄 Smart Features
-
 ### - Reminders & Notifications: 
 For unlogged days, overspending alerts, and budget resets.
 
 🎮 Gamification & Motivation
-### - Achievement Badges: 
+### Achievement Badges: 
 Unlock for reaching milestones (e.g., “Saved for 3 Months”).
-
-### - Daily/Weekly Streaks: 
+### Daily/Weekly Streaks: 
 Motivation for consistent logging (with visual indicators like fire/flame or calendar icons).
-
-### - Reward Animations: 
+### Reward Animations: 
 Confetti/fireworks when completing goals (like Duolingo).
-
-### - Goal Setting: 
+### Goal Setting: 
 Set savings or habit-based goals (e.g., “Track every day for a week”).
 
 🛡️ Security & Sync
-###- Firebase Authentication: 
+### Firebase Authentication: 
 Google/email sign-in with cloud data sync.
-
-###- Offline Mode: 
+### Offline Mode: 
 Local caching for data entry when offline.
-
-###- Data Backup: 
+### Data Backup: 
 Cloud Firestore sync for budget and expense data.
 
 ⚙️ Settings & Customization
-### - Theme Switching: 
-Light/Dark mode or custom color themes.
-
-###- Currency Settings: 
+### Theme Switching: 
+Light/Dark mode or custom color themes
+### Currency Settings: 
 Choose local or preferred currency.
-
-### - Profile Management: 
+### Profile Management: 
 View achievements, stats, and reset data.
 
 ---
