@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/" alt="logo" width="400" />
 </p>
@@ -15,21 +15,21 @@ it hat helps users plan, record, and reflect on their monthly budgets. Inspired 
 ---
 ## 🧩 Budget and income tracking
 ### Create and manage Budgets: 
--Set monthly or custom-period budgets for categories like food, transport, savings, etc.
+- Set monthly or custom-period budgets for categories like food, transport, savings, etc.
 ### Expense Tracking: 
--Log and categorize expenses with notes, timestamps, and amounts.
+- Log and categorize expenses with notes, timestamps, and amounts.
 ### Income Tracking: 
--Record multiple income streams and compare against expenses.
+- Record multiple income streams and compare against expenses.
 ### Category Management: 
--Add, edit, and delete custom spending categories.
+- Add, edit, and delete custom spending categories.
 
 ## 📊 Data Visualization
 ### Pie Charts & Bar Graphs: 
--Visualize spending by category or time.
+- Visualize spending by category or time.
 ### Progress Bars: 
--Track real-time usage of budgets.
+- Track real-time usage of budgets.
 ### Spending Trends: 
--Weekly/monthly analytics to show patterns.
+- Weekly/monthly analytics to show patterns.
 
 ## 🔄 Smart Features
 ### Reminders & Notifications: 
