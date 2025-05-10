@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=6AFFCE&center=true&vCenter=true&width=800&height=60&lines=Master+Budget+Companion;Your+Personal+Financial+Ally" alt="Typing SVG" />
-    </a>
-  </h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22cc805e-65e5-4f00-bb59-e112af34edbd" alt="logo" width="400" />
+</p>
 </div>
 
 ---
