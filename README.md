@@ -63,14 +63,6 @@ View achievements, stats, and reset data.
 
 ---
 
-## 🧠 Inspiration
-
-The app is designed with clarity, honesty, and **financial awareness** in mind. It doesn’t just track numbers—it helps the user *understand* their financial behavior, acknowledge overspending habits, and improve decision-making.
-
-
----
-MasterBudget is a gamified personal finance app designed to help users track expenses, manage budgets, and build healthy financial habits—all with a fun, engaging experience inspired by apps like Duolingo and Habitica.
-
 ## 📽 Demo Video
 [Watch the video for Part 2 of the POE](https://youtu.be/d2s0mmedYs0)
 
