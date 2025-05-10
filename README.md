@@ -31,7 +31,7 @@
 ## 💼 Core Budgeting Features 
 
 ---
-🧩 Budget and income tracking
+## 🧩 Budget and income tracking
 ### Create and manage Budgets: 
 Set monthly or custom-period budgets for categories like food, transport, savings, etc.
 ### Expense Tracking: 
@@ -41,7 +41,7 @@ Record multiple income streams and compare against expenses.
 ### Category Management: 
 Add, edit, and delete custom spending categories.
 
-📊 Data Visualization
+## 📊 Data Visualization
 ### Pie Charts & Bar Graphs: 
 Visualize spending by category or time.
 ### Progress Bars: 
@@ -71,7 +71,7 @@ Local caching for data entry when offline.
 ### Data Backup: 
 Cloud Firestore sync for budget and expense data.
 
-⚙️ Settings & Customization
+## ⚙️ Settings & Customization
 ### Theme Switching: 
 Light/Dark mode or custom color themes
 ### Currency Settings: 
