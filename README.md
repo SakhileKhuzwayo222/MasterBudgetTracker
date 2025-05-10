@@ -40,19 +40,19 @@ The app is designed with clarity, honesty, and **financial awareness** in mind. 
 ### 💻 Backend & Core
 
 <div align="center"> 
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Framework" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="RoomDB (SQLite)" />
 </div>
 
 ### 🖥️ Frontend / UI
 
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=javafx" alt="JavaFX" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=javafx" alt="JavaFX (Kotlin Compatible)" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </div>
 
----
 
 ## 📸 Screenshots (Coming Soon)
 
