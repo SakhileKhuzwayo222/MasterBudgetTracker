@@ -64,12 +64,26 @@ The app is designed with clarity, honesty, and **financial awareness** in mind. 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-```bash
-git clone https://github.com/SakhileKhuzwayo222/master-budget-companion.git
-cd master-budget-companion
-# Open in your Java IDE or run with your favorite build tool
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Ryan-Millard/Budgie-Budget-Tracker.git
+    ```
+
+2. Open the project in Android Studio.
+
+3. Build the project:
+
+    - Gradle will automatically download and install required dependencies.
+    - Ensure you have an Android device or emulator set up.
+
+4. Run the app on your Android device or emulator:
+
+    - In Android Studio, select your device and hit the **Run** button.
+
+---
 
 
 📬 Contact
