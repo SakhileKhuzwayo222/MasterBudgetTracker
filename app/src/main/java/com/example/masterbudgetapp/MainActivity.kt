@@ -1,8 +1,8 @@
 package com.example.masterbudgetapp
 
 import android.os.Bundle
-import android.widget.Toolbar
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.Toolbar
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -12,9 +12,4 @@ class MainActivity : AppCompatActivity() {
         val toolbar: Toolbar = findViewById(R.id.toolbar)
         setSupportActionBar(toolbar)
     }
-
-    private fun setSupportActionBar(toolbar: Toolbar) {
-        TODO("Not yet implemented")
-    }
-
 }

@@ -1,7 +1,7 @@
 <resources>
 
-    <style name="Widget.Theme.MasterBudgetApp.MyView" parent="">
+    <style name="Widget.Theme.MasterBudgetApp.MyView" parent="Theme.MaterialComponents.DayNight">
         <item name="android:background">@color/gray_600</item>
-        <color name="exampleColor">#FF5733</color> <!-- Define the color for night mode --> name="exampleColor">@color/light_blue_600
+        <item name="exampleColor">@color/light_blue_600</item> <!-- Night mode color -->
     </style>
 </resources>

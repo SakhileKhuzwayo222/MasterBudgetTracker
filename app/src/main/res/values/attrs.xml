@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <!-- Custom Attribute Definitions -->
+    <declare-styleable name="YourCustomView">
+        <attr name="exampleColor" format="color"/>
+        <attr name="exampleDimension" format="dimension"/>
+        <attr name="exampleDrawable" format="reference"/>
+        <attr name="exampleString" format="string"/>
+    </declare-styleable>
+</resources>
