@@ -2,6 +2,6 @@
 
     <style name="Widget.Theme.MasterBudgetApp.MyView" parent="">
         <item name="android:background">@color/gray_400</item>
-        <item name="exampleColor">@color/light_blue_400</item>
+        <item name="exampleColor">@color/exampleColor</item>
     </style>
 </resources>

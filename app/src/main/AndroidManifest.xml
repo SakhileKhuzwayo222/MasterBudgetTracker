@@ -12,17 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MasterBudgetApp"
         tools:targetApi="31">
-        <activity
-            android:name=".navigation.AppNavGraph"
-            android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="@string/app_name"
             android:theme="@style/Theme.MasterBudgetApp">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
