@@ -1,4 +1,4 @@
-![App Logo](app/ic_logo.png)
+![App Logo](app/m.png)
 
 
 ---
