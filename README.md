@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/SakhileKhuzwayo222/MasterBudgetTracker.git/app/m.png" alt="Logo" width="200"/>
+<img src="https://raw.githubusercontent.com/SakhileKhuzwayo222/MasterBudgetTracker.git/main/app/m.png" alt="Logo" width="200"/>
 </div>
 ---
 
