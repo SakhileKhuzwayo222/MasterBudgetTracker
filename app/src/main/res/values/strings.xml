@@ -10,4 +10,15 @@
     <string name="username_hint">username_hint</string>
     <string name="register_title">register_title</string>
     <string name="email_hint">email_hint</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="monthlybudget">Budget Overview</string>
+    <string name="categories">Categories</string>
+    <string name="Budget">Budget</string>
+    <string name="expenseentry">Expense Entry</string>
+    <string name="budget">Budget</string>
+    <string name="addexpense">AddExpense</string>
+    <string name="add">add</string>
 </resources>
