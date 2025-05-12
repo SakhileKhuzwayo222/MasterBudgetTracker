@@ -36,10 +36,10 @@ class AchievementsFragment : Fragment() {
         //define achievements
         val achievements = listOf(
             Achievement("Saved \$1000", "You’ve reached your first \$1000!", drawable.ic_rewards_1, true),
-            Achievement("No Spend Week", "A full week without spending.", drawable.ic_rewards_2, false),
-            Achievement("Save More", "Saved R500 this month", 80, false),
-            Achievement("Budget Master", "Stuck to your budget for 30 days", 100, true),
-            Achievement("Expense Tracker", "Logged expenses for a week", 60, false)
+            Achievement("No Spend Week", "A full week without spending.", drawable.ic_rewards_1, false),
+            Achievement("Save More", "Saved R500 this month",drawable.ic_rewards_1, 80, false),
+            Achievement("Budget Master", "Stuck to your budget for 30 days", drawable.ic_rewards_1, 100, true),
+            Achievement("Expense Tracker", "Logged expenses for a week", drawable.ic_rewards_1, 60, false)
         )
 
         recyclerView.adapter = AchievementAdapter(achievements)
