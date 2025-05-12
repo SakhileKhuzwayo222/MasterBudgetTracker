@@ -3,4 +3,11 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="my_toolbar">My Toolbar</string>
+    <string name="register_button">register_button</string>
+    <string name="login_link">login_link</string>
+    <string name="confirm_password_hint">confirm_password_hint</string>
+    <string name="password_hint">password_hint</string>
+    <string name="username_hint">username_hint</string>
+    <string name="register_title">register_title</string>
+    <string name="email_hint">email_hint</string>
 </resources>

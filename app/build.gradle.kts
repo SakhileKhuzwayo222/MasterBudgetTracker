@@ -5,6 +5,12 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        getByName("debug") {
+            storeFile =
+                file("C:\\Users\\Admin user\\AndroidStudioProjects\\MasterBudgetApp\\app\\src\\main\\java\\com\\example\\masterbudgetapp\\ui\\screens\\loginScreen\\LoginFragment.kt")
+        }
+    }
     namespace = "com.example.masterbudgetapp"
     compileSdk = 35
 
