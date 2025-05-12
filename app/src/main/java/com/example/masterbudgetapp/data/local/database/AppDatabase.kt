@@ -10,6 +10,7 @@ import com.example.masterbudgetapp.model.User
 abstract class AppDatabase : RoomDatabase() {
 
     abstract fun userDao(): UserDao
+    abstract fun achievementDao(): AchievementDao
 
     companion object {
         @Volatile
