@@ -1,6 +1,6 @@
-![App Logo](app/ic_logo.png)
-
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/SakhileKhuzwayo222/MasterBudgetTracker/main/app/m.png" alt="Logo" width="300"/>
+</div>
 ---
 
 ![Repo Views](https://komarev.com/ghpvc/?username=SakhileKhuzwayo222&label=Repo+Views&color=blue)
