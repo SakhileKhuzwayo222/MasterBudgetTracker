@@ -1,5 +1,9 @@
 package com.example.masterbudgetapp.data.repository
 
+import com.example.masterbudgetapp.data.local.dao.UserDao
+import com.example.masterbudgetapp.data.model.User
+import com.example.masterbudgetapp.data.remote.UserRemoteSource
+
 class UserRepository @Inject constructor(
     private val userDao: UserDao,
     private val userRemote: UserRemoteSource
@@ -9,4 +13,9 @@ class UserRepository @Inject constructor(
         userDao.saveUser(user)
         userRemote.updateUserProfile(user)
     }
+
+    fun registerUser(
+        string: String,
+        string: kotlin.String,
+        string: kotlin.String) {}
 }
