@@ -61,7 +61,7 @@ it hat helps users plan, record, and reflect on their monthly budgets. Inspired 
 ---
 
 ## 📽 Demo Video
-[Watch the video for Part 2 of the POE](https://youtu.be/d2s0mmedYs0)
+[Watch the video for Part 2 of the POE]([https://youtu.be/d2s0mmedYs0](https://www.canva.com/design/DAGnRUntcAE/HLHdBem1FylX8DrGyibJXQ/edit?utm_content=DAGnRUntcAE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ## 🤖 Releases
 [v1.0.0 - POE Part 2](https://github.com/Ryan-Millard/Budgie-Budget-Tracker/releases/tag/v1.0.0-POE_Part_2)
