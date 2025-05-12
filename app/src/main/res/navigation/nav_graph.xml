@@ -1,21 +1,23 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+   <!-- Add this line if you're using tools: attributes -->
     android:id="@+id/nav_graph"
-    app:startDestination="@id/homeFragment">
+    app:startDestination="@id/homeFragment"
 
     <fragment
-        android:id="@+id/homeFragment"
-        android:name="com.example.masterbudgetapp.ui.screens.homeScreen.HomeFragment"
-        android:label="Home" />
+    android:id="@+id/homeFragment"
+    android:name="com.example.masterbudgetapp.ui.screens.homeScreen.HomeFragment"
+    android:label="Home" />
+
     <fragment
-        android:id="@+id/expenseFragment"
-        android:name="com.example.masterbudgetapp.ui.screens.expenseEntryScreen.ExpenseEntryFragment"
-        android:label="Expenses" />
+    android:id="@+id/expenseFragment"
+    android:name="com.example.masterbudgetapp.ui.screens.expenseEntryScreen.ExpenseEntryFragment"
+    android:label="Expenses" />
+
     <fragment
-        android:id="@+id/profileFragment"
-        android:name="com.example.masterbudgetapp.ui.screens.profileScreen.ProfileFragment.ProfileFragment"
-        android:label="Profile" />
-</navigation>
+    android:id="@+id/profileFragment"
+    android:name="com.example.masterbudgetapp.ui.screens.profileScreen.ProfileFragment"
+    android:label="Profile" />
+
+    </navigation>
+
